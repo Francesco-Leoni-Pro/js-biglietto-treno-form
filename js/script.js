@@ -1,3 +1,4 @@
+/*
 // 1️⃣ Chiedo all'utente i dati
 const km = parseFloat(prompt("Quanti chilometri vuoi percorrere?"));
 const eta = parseInt(prompt("Quanti anni hai?"));
@@ -14,3 +15,4 @@ if (eta < 18) {
 
 // 4️⃣ Mostro il risultato in console
 console.log("Prezzo del biglietto: € " + prezzo.toFixed(2));
+*/
